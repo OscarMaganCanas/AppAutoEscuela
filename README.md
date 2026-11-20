@@ -2,8 +2,6 @@
 
 Aplicación web para que los alumnos de una autoescuela **reserven sus clases prácticas** y los profesores **gestionen su agenda y a sus alumnos**. Sustituye la gestión manual (llamadas, WhatsApp, papel) por un sistema con reglas automáticas que evita solapamientos y reparte las clases según el nivel de cada alumno.
 
-🔗 **Demo:** [autoescuela-rosales.vercel.app](https://autoescuela-rosales.vercel.app) *(usuarios de prueba más abajo)*
-
 <!-- Añade aquí capturas de pantalla:
 ![Panel del alumno](docs/alumno.png)
 ![Panel del profesor](docs/profesor.png)
@@ -80,13 +78,7 @@ Las reservas dobles simultáneas se evitan también en el servidor con una restr
 4. Copia la URL y la *anon key* de tu proyecto (**Settings → API**) en `js/supabase.js`.
 5. Abre `index.html` con un servidor local, por ejemplo la extensión *Live Server* de VS Code.
 
-## 🔑 Usuarios de prueba
-
-| Rol | Email | Contraseña |
-|---|---|---|
-| Profesor | carlos.mendez@demo.com | `[CONTRASEÑA]` |
-| Alumno (Prioridad) | marta.ruiz@demo.com | `[CONTRASEÑA]` |
-| Alumno (Nuevo) | ana.castillo@demo.com | `[CONTRASEÑA]` |
+Actualmente la app no está activa ya que la empresa no quiso la aplicación.
 
 ## 👤 Autor
 
